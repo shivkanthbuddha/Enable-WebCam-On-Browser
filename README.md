@@ -11,5 +11,5 @@ This acts as a building block for future facial and image processing application
 Download / clone the repo and open the index.html on the browser 
 
 ### Demo
- [Click me for Live Demo](https://shivkanthbuddha.github.io/EnableWebCamUsingJavascriptOnly/)
+ [Click me for Live Demo](https://shivkanthbuddha.github.io/Enable-WebCam-On-Browser/index.html)
 
